@@ -1,0 +1,14 @@
+{
+  "exp": "cnn_noaug",
+  "model": "simplecnn",
+  "pretrained": false,
+  "aug": "none",
+  "epochs_run": 40,
+  "params_m": 1.149,
+  "best_val_acc": 87.76,
+  "best_epoch": 38,
+  "test_acc": 87.26,
+  "test_loss": 0.8404,
+  "train_time_min": 6.06,
+  "device": "cuda"
+}

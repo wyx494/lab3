@@ -1,0 +1,14 @@
+{
+  "exp": "cnn_adamw",
+  "model": "simplecnn",
+  "pretrained": false,
+  "aug": "basic",
+  "epochs_run": 40,
+  "params_m": 1.149,
+  "best_val_acc": 91.6,
+  "best_epoch": 29,
+  "test_acc": 90.6,
+  "test_loss": 0.7707,
+  "train_time_min": 9.89,
+  "device": "cuda"
+}

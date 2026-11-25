@@ -1,0 +1,14 @@
+{
+  "exp": "resnet18_pretrained",
+  "model": "resnet18",
+  "pretrained": true,
+  "aug": "strong",
+  "epochs_run": 12,
+  "params_m": 11.182,
+  "best_val_acc": 95.0,
+  "best_epoch": 12,
+  "test_acc": 94.26,
+  "test_loss": 0.6408,
+  "train_time_min": 10.08,
+  "device": "cuda"
+}

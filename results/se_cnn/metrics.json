@@ -1,0 +1,14 @@
+{
+  "exp": "se_cnn",
+  "model": "se_cnn",
+  "pretrained": false,
+  "aug": "strong",
+  "epochs_run": 40,
+  "params_m": 1.16,
+  "best_val_acc": 91.88,
+  "best_epoch": 40,
+  "test_acc": 91.2,
+  "test_loss": 0.7285,
+  "train_time_min": 13.83,
+  "device": "cuda"
+}

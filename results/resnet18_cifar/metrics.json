@@ -1,0 +1,14 @@
+{
+  "exp": "resnet18_cifar",
+  "model": "resnet18_cifar",
+  "pretrained": false,
+  "aug": "strong",
+  "epochs_run": 60,
+  "params_m": 11.174,
+  "best_val_acc": 95.16,
+  "best_epoch": 52,
+  "test_acc": 94.9,
+  "test_loss": 0.617,
+  "train_time_min": 20.44,
+  "device": "cuda"
+}

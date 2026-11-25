@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 训练产物（权重体积大，按需重新训练生成）
+*.pt
+*.pth
+
+# 数据集（体积大，可由 scripts/prepare_data.py 或 torchvision 自动准备）
+data/cifar10/
+data/*.parquet
+data/*.tar.gz
+data/*.tgz
+
+# 本地缓存
+.mplconfig/
+.venv/
+lab3_env/

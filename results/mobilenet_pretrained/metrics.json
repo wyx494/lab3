@@ -1,0 +1,14 @@
+{
+  "exp": "mobilenet_pretrained",
+  "model": "mobilenet_v3_small",
+  "pretrained": true,
+  "aug": "strong",
+  "epochs_run": 15,
+  "params_m": 1.528,
+  "best_val_acc": 91.2,
+  "best_epoch": 15,
+  "test_acc": 90.47,
+  "test_loss": 0.736,
+  "train_time_min": 8.59,
+  "device": "cuda"
+}

@@ -1,0 +1,14 @@
+{
+  "exp": "cnn_strongaug",
+  "model": "simplecnn",
+  "pretrained": false,
+  "aug": "strong",
+  "epochs_run": 40,
+  "params_m": 1.149,
+  "best_val_acc": 91.84,
+  "best_epoch": 38,
+  "test_acc": 91.3,
+  "test_loss": 0.7576,
+  "train_time_min": 13.35,
+  "device": "cuda"
+}
